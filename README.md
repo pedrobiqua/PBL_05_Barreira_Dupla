@@ -12,7 +12,15 @@ The workspace contains two folders by default, where:
 
 - `src`: the folder to maintain sources
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+Tree view:
+```bash
+C:.
+├───.vscode
+├───lib
+└───src
+```
+
+If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
 
 ## Dependency Management
 
